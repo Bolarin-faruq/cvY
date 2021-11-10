@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<title>Abolarin faruq</title>
+				<meta charset="UTF-8">
+				<meta name="description" content="This is abolarin faruq portfolio website still in progress though">
+</head>
+<body>
+				<table cellspacing="10">
+								<tr>
+												<td>
+																
+												<img src="mycrop.png" height="120px">
+												</td>
+											
+												<td><h1>Abolarin faruq</h1>
+				<p><em><a href=" https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.central.edu.gh/&ved=2ahUKEwj_86eCwYj0AhU1AGMBHbw8CUoQFnoECAUQAg&usg=AOvVaw34GdGX5rEUlAns7VkAeSu1">Central university  </a>student</em></p>
+				<p><em>Department of <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://everythingcomputerscience.com/&ved=2ahUKEwiA19SYwIj0AhXC6eAKHcnvAvAQFnoECB8QAQ&usg=AOvVaw1_U86TYYqXbylmmYjZOQZN"> computer science</a></em></p>
+				<p><em>Department of <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www-math.umd.edu/&ved=2ahUKEwjbvqC9wYj0AhWQGBQKHXA4D8MQFnoECCwQAQ&usg=AOvVaw3TjU-NHUhBr7iqkGwcCVid">mathematics</a></em> </p>
+				
+				</td>
+								</tr>
+				</table>
+				<hr>
+								<p>I'm the ceo and founder of <strong> <a href="https://www.facebook.com/groups/507185473659815/?ref=share">Youngster techspot</a></strong>, I am a student in central university ghana, my research focuses on web designs/ development. coding website has been a great journey for me, i remember when i started with an unserious mindset, still i kept going ,kept learning, till i decovered the fun and the joy it brings to me,web development is one of the simplest and easy to learn skill i think every goung teenagers should learn  </p>
+				<hr
+				
+				<hr  noshade>
+				<h3>my hobbies</h3>
+				<ul >
+								<li>coding</li>
+								<li>watching tech based movies</li>
+								<li>working on computers</li>
+				</ul>
+				<hr noshade>
+				<h3>Skill</h3>
+				<table cellspacing="10">
+								<tr>
+												<td>	<table cellspacing="10">
+								<tr>
+												<td>HTML</td>
+												<td>🌟🌟🌟🌟🌟</td>
+												
+								</tr>
+								<tr>
+												<td>CSS</td>
+												<td>🌟🌟🌟🌟</td>
+								</tr>
+								<tr>
+												<td>Javascript</td>
+												<td>🌟🌟🌟</td>
+								</tr>
+								<tr>
+												<td>PHP</td>
+												<td>🌟🌟</td>
+								</tr>
+								<tr>
+												<td>C++</td>
+												<td>🌟</td>
+								</tr>
+				</table></td>
+												<td>	<table cellspacing="10">
+								<tr>
+												<td>python</td>
+												<td>🌟</td>
+												
+								</tr>
+								<tr>
+												<td>Java</td>
+												<td>🌟</td>
+								</tr>
+								<tr>
+												<td>SQL</td>
+												<td>🌟</td>
+								</tr>
+								<tr>
+												<td>Golang</td>
+												<td>🌟</td>
+								</tr>
+								<tr>
+												<td>C</td>
+												<td>🌟</td>
+								</tr>
+				</table></td>
+								</tr>
+								
+				</table>
+</body>
+</html>
